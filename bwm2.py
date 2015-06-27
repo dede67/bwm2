@@ -41,7 +41,7 @@ IPS_TO_PING=["fb", "switch", "c2q", "t430", "i5", "rp1", "rp2", "bb",
 cfgFile_g=".bwm2rc"
 
 # auf True, wenn das Fenster nicht in der Taskbar erscheinen soll. Sonst auf False
-FRAME_NO_TASKBAR=True
+FRAME_NO_TASKBAR=False
 
 
 
